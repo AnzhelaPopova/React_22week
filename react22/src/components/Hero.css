@@ -1,0 +1,23 @@
+.hero-card {
+    width: 30%;
+    margin: 10px;
+}
+
+.hero-card img {
+    border-radius: 15px;
+    height: 150px;
+}
+
+.hero-name {
+    font-weight: bold;
+}
+
+.hero-superpowers {
+    font-weight: normal;
+}
+
+
+.hero-info {
+    font-size: smaller;
+}
+
