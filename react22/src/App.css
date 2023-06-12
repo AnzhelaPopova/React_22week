@@ -1,7 +1,12 @@
 .App {
   text-align: center;
-  display: flex;
+  /* display: flex;
   flex-direction: row;
+  width: 90%; */
+  padding: auto;
+  margin: au;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
 }
 
 .App-logo {
